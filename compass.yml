@@ -1,0 +1,14 @@
+name: AgentGPT
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/bc40d8cb-5f4f-4532-8177-9135862576ee
+description: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
